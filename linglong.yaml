@@ -3,7 +3,7 @@ version: "1"
 package:
   id: cn.innosilicon.driver.innogpu.fh2m
   name: innogpu-fh2m
-  version: 1.0.0.0
+  version: 1.0.0.1
   kind: extension
   description: |
     Innosilicon Fantasy II driver
